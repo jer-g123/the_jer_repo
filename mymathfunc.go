@@ -1,7 +1,5 @@
-// ZER CHANGERRRR
-// jers changerrrrss
-
 // write a function that...
+// MOAAARRR
 
 // adds two numbers
 // multiplies two numbers
@@ -112,5 +110,3 @@ func main() {
 
 	fmt.Println("------------------End Print-----------------")
 }
-
-// my change right here
